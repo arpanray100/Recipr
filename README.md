@@ -7,7 +7,7 @@ Recipr is a **full-stack AI-powered recipe platform** that helps users generate 
 ---
 
 ## 🌟 Live Demo
-🔗 https://recipr-one.vercel.app
+🔗https://recipr-arpan.vercel.app/
 
 
 ---
